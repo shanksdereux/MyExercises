@@ -48,7 +48,7 @@ namespace TwoSum
                         return new int[] { i, j };
                 }
             }
-            return new int[] { };
+            return new int[] {0, 0};
 
             //Test
             //int[] numbers = new int[4] { 1, 2, 3, 4 };
